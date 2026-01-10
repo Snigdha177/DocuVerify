@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DocuVerify</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="galaxy"></div>
+
+<nav>
+  <div style="display: flex; align-items: center;">
+    <img src="logo.svg" alt="DocuVerify Logo" style="width: 40px; height: 40px; margin-right: 10px;">
+    <h2 style="margin: 0;">DocuVerify</h2>
+  </div>
+  <div id="nav-links" style="margin-left: auto;">
+    <a href="upload.html">Upload</a>
+    <a href="verify.html">Verify</a>
+    <a href="register.html">Register</a>
+    <a href="login.html" id="login-link">Login</a>
+    <a href="#" id="logout-link" style="display:none" onclick="logout()">Logout</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <h1>Document Integrity: Your Competitive Edge"</h1>
+  <p>In the competitive landscape of modern business, document authenticity isn't just important—it's essential. Our comprehensive verification platform combines robust security protocols with intuitive design, ensuring that every contract, report, and record maintains its integrity from creation to consumption. Experience the peace of mind that comes with knowing your corporate documents are protected by enterprise-level security standards.</p>
+  <div class="cta-buttons">
+    <a href="register.html" class="btn primary">Get Started</a>
+    <a href="#features" class="btn secondary">Learn More</a>
+  </div>
+</section>
+
+<section class="features" id="features">
+  <h2>Key Features</h2>
+  <div class="feature-list">
+    <div class="feature">
+      <h3>Secure Uploads</h3>
+      <p>Upload documents with end-to-end encryption to ensure data privacy.</p>
+    </div>
+    <div class="feature">
+      <h3>Real-Time Verification</h3>
+      <p>Instantly verify document authenticity using advanced hashing techniques.</p>
+    </div>
+    <div class="feature">
+      <h3>Audit Trails</h3>
+      <p>Track all document activities with detailed logs for compliance.</p>
+    </div>
+  </div>
+</section>
+
+<section class="how-it-works">
+  <h2>How It Works</h2>
+  <div class="steps">
+    <div class="step">
+      <h3>1. Upload</h3>
+      <p>Securely upload your documents with encryption.</p>
+    </div>
+    <div class="step">
+      <h3>2. Verify</h3>
+      <p>Use our tools to check authenticity instantly.</p>
+    </div>
+    <div class="step">
+      <h3>3. Track</h3>
+      <p>Monitor activities with detailed audit logs.</p>
+    </div>
+  </div>
+</section>
+
+<section class="about">
+  <h2>About DocuVerify</h2>
+  <p>DocuVerify is a cutting-edge document verification platform designed for businesses to ensure the authenticity and integrity of their critical documents. Built with enterprise-level security, it provides seamless upload, verification, and tracking features.</p>
+</section>
+
+ 
+
+<footer>
+  <p>&copy; 2025 DocuVerify. All rights reserved.</p>
+  <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a> | <a href="#">Support</a>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+  checkLoginStatus();
+</script>
+
+</body>
+</html>

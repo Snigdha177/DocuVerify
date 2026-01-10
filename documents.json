@@ -1,0 +1,41 @@
+{
+  "fa3f8d292814edb38f27c1da2eb180f2accd8ac2e4c7371cc0eb545ffaa8e9e6": {
+    "docId": "1766915284850",
+    "filename": "1766915284790-Holiday Notice.pdf",
+    "uploader": "snigdha"
+  },
+  "6d97a096703cab17915fd7795ce5a963c8867101e3b3fe69594fabff1e7ab588": {
+    "docId": "1767016877707",
+    "filename": "test-document.txt",
+    "uploader": "system",
+    "signature": "qh35p4j8th5r6eQDLDC9r2tXgUvyBhiiTJu/9A0DUGQoifjox1MgC8f3aquFo7001CDkS2p88yYS6X7499XN7RirbNymvEABCsx5TAr1RDq8pxmzxeDfNBPSIJU1nM2Mj3tm5ZBSLZRkl+upAvX6rf8uWvrvIw0Q5cTSrA1xl1vtfbK7DsvxFXm1aMneaZY9xRxQPnuTmqcxFrtmNzyKrBWQr36cA0WqXkKm+R3eQ8ZJQSv5uAaJEXKm3f9vUZ2lrbs2RQBKjJjkHef7KgQAyzVNuLsQnwWf5/aQLF2nl4WCAvt2N15LbJCJntaPn2tdm0fcU9pev+C1pAGojuJQ2A==",
+    "addedForVerification": true
+  },
+  "1768028064868-snigdha": {
+    "id": "1768028064868-snigdha",
+    "filename": "Challan_2512360041830.pdf",
+    "uploadedBy": "snigdha",
+    "uploadedAt": "2026-01-10T06:54:24.868Z",
+    "filePath": "C:\\Users\\croma\\.vscode\\Document verification system\\uploads\\1768028064859-5eddae5ab918-Challan_2512360041830.pdf",
+    "fileSize": 12703,
+    "hash": "1d2c19d8a613924a01187804e0010fc90b47786aedede301549e111949a261f9",
+    "verified": false,
+    "verifications": [
+      {
+        "verifiedBy": "snigdha",
+        "verifiedAt": "2026-01-10T06:54:41.120Z",
+        "verified": true
+      },
+      {
+        "verifiedBy": "snigdha",
+        "verifiedAt": "2026-01-10T07:03:54.927Z",
+        "verified": true
+      },
+      {
+        "verifiedBy": "snigdha",
+        "verifiedAt": "2026-01-10T09:28:30.303Z",
+        "verified": true
+      }
+    ]
+  }
+}

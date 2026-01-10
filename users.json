@@ -1,0 +1,22 @@
+{
+  "snigdha": {
+    "password": "$2a$10$lyszVd74y36CsRhDfEALaOiqxNNCbQo6jfRD9cAANDq5llV/WPLAO",
+    "role": "user"
+  },
+  "testuser": {
+    "password": "$2a$10$f/Ouu7edrjeeizcnfswVBOWTY83z0Zyl3Ms1G1MyeDME.2m.QebtS",
+    "role": "user"
+  },
+  "admin": {
+    "password": "$2a$10$ozPncMTIR99GIBYy0BsSK.X85WkU77UqUiIM/lKEgfFbFSGxz/Kba",
+    "role": "user"
+  },
+  "khushi": {
+    "password": "$2a$10$NZJFVEBQHA4aqzJXdNJimeBXVog7P.YpwKwfU3RtU5ILVLVqbUy2O",
+    "role": "user"
+  },
+  "nitesh": {
+    "password": "$2a$10$XE4pxcRz.l8UBCUSZHoRmeGDf7vt6E27MqfWUxwD8WmA6CYAwGjBm",
+    "role": "user"
+  }
+}
