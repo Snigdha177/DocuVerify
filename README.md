@@ -16,8 +16,6 @@ npm install
 npm start
 ```
 
-Server runs on http://localhost:8888
-
 ## Test Login
 
 - Username: admin
