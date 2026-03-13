@@ -34,3 +34,5 @@ npm start
 - js/app.js - Frontend
 - HTML files - Pages
 - uploads/ - Uploaded files
+- LINK-https://docuverify-n6jw.onrender.com
+
